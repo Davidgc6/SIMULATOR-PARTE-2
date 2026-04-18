@@ -1,5 +1,7 @@
 PRACTICA2
+
 //Todo el inicio
+-
 -Añadido public void reset en simulator.java
 -Se añade tostring en DefaultR y DynamicR
 -Se ha cambiado factor food en dynamic de 1000 a 100
@@ -15,7 +17,6 @@ PRACTICA2
 //Inicia enunciado en EcoSysObserver
 -
 -
-
 //Inicia enunciado en Controller
 
 //Inicia enunciado en Main
