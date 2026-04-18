@@ -3,9 +3,11 @@ PRACTICA2
 //Todo el inicio
 -
 -Añadido public void reset en simulator.java
--
+
 -Se añade tostring en DefaultR y DynamicR
+
 -Se ha cambiado factor food en dynamic de 1000 a 100
+
 -Se añaden fillIns en Default y Dynamic Builder
 
 //Inicia enunciado en Region Manager
