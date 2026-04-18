@@ -24,7 +24,11 @@ PRACTICA2
 
 //Inicia enunciado en EcoSysObserver
 -
--HACIENDOSE AUN
+-Crear Interfaz Observable dentro de sim.model
+
+-Crear Interfaz EcoSysObservable dentro de sim.model
+
+-Actualizar Simulator.java
 
 //Inicia enunciado en Controller
 -
