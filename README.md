@@ -97,3 +97,8 @@ PRACTICA2
 
 //MetodoStartGUIMODE
 -
+
+
+ARGUMENTO PARA MODO INICIAR PROGRAMA:
+
+-i resources/examples/ex1.json -o resources/salida/s1.json -t 60.0 -dt 0.03 -sv
